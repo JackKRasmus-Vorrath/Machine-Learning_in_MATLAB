@@ -1,6 +1,6 @@
 # Machine-Learning_in_MATLAB
-Example Implementations of:
+Example Implementations of Regression and Classification using:
 
 Neural Networks,
-Regression Trees,
+Random Forest,
 Principal Component Analysis
